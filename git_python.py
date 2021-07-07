@@ -10,3 +10,4 @@ average(numbers)
 
 print('Pierwszy commit!')
 print('Drugi commit!')
+print('Trzeci commit!')
