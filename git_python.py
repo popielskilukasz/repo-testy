@@ -8,10 +8,6 @@ def average(lista: list):
 
 average(numbers)
 
-<<<<<<< HEAD
 print('Pierwszy commit!')
 print('Drugi commit!')
 print('Trzeci commit!')
-=======
-print('Branch trzeci!')
->>>>>>> 1edf90e4ef480d099ac372da1797b6a727c38a5d
