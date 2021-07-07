@@ -9,3 +9,4 @@ def average(lista: list):
 average(numbers)
 
 print('Pierwszy commit!')
+print('Drugi commit!')
