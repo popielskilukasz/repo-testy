@@ -7,3 +7,4 @@ def average(lista: list):
     print(suma/len(lista))
 
 average(numbers)
+
