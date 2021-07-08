@@ -8,3 +8,4 @@ def average(lista: list):
 
 average(numbers)
 
+print('Branch trzeci!')
