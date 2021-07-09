@@ -1,1 +1,1 @@
-print('Hello bowy zdalny!!')
+print('Hello nowy zdalny lokalny!!!')
